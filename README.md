@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Dashboard / Data Viz**
 
-- 🌱 I’m currently learning **Plotly**
+- 🌱 I’m currently learning **Plotly & Dash**
 
 - 👯 I’m looking to collaborate on **Time series / regression project**
 
