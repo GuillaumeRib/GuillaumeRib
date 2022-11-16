@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Guillaume</h1>
 
-- 🔭 I’m currently working on **Deep learning / Image classification**
+- 🔭 I’m currently working on **Dashboard / Data Viz**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Plotly**
 
 - 👯 I’m looking to collaborate on **Time series / regression project**
 
