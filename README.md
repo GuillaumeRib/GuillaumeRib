@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Guillaume</h1>
 
-- 🔭 I’m currently working on **Dashboard / Data Viz**
+- 🔭 I’m currently working on **project-gpx / from gpx data to Data Viz / dashboard**
 
 - 🌱 I’m currently learning **Plotly & Dash**
 
