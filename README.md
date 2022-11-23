@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Guillaume</h1>
 
-- 🔭 I’m currently working on **project-spx_dash / From extraction-scrapping of financial data, data engineering, data viz, to app deployment
+- 🔭 I’m currently working on **project-spx_dash** / From extraction-scrapping of financial data, data engineering, data viz, to app deployment
 
 - 🌱 I’m currently learning **Plotly & Dash** / **ML applied to Finance**
 
