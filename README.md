@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Guillaume</h1>
+<h1 align="center">Hi, I'm Guillaume</h1>
 
-- 🔭 I’m currently working on **project-gpx / from gpx data to Data Viz / dashboard**
+- 🔭 I’m currently working on **project-spx_dash / From extraction-scrapping of financial data, data engineering, data viz, to app deployment
 
-- 🌱 I’m currently learning **Plotly & Dash**
+- 🌱 I’m currently learning **Plotly & Dash** / 
 
-- 👯 I’m looking to collaborate on **Time series / regression project**
+- 👯 I’m looking to apply ML and Data Analysis | Viz to help businesses grow and make better use of Data
 
 - 📫 How to reach me **gribiere@gmail.com**
 
