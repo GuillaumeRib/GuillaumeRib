@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **project-spx_dash** / From extraction-scrapping of financial data, data engineering, data viz, to app deployment
 
-- 🌱 I’m currently learning **Plotly & Dash** / **ML applied to Finance**
+- 🌱 I’m currently learning **Plotly & Dash** / **ML applied to Finance** (EDHEC)/**Advanced Learning Algorithms** (Stanford-Andrew Ng)
 
 - 👯 I’m looking to apply ML and Data Analysis | Viz to help businesses grow and make better use of Data
 
