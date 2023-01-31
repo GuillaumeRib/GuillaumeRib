@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Guillaume</h1>
 
-- 🔭 I’m currently working on **project-spx_dash** / From extraction-scrapping of financial data, data engineering, data viz, to app deployment
+- 🔭 I’m currently working on **Electricity Price Forecast project** / From EDA on day_ahead price, load forecast, and wind & solar generation forecasts, using stats & ML models (SARIMAX, Prophet, Linear reg, XGBoost, etc.)
 
 - 🌱 I’m currently learning **Plotly & Dash** / **ML applied to Finance** (EDHEC)/**Unsupervised Learning** (Stanford-Andrew Ng)
 
