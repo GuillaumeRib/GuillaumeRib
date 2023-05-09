@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Guillaume</h1>
 
-- 🔭 I’m currently working on **Electricity Price Forecast project** / From EDA on day_ahead price, load forecast, and wind & solar generation forecasts, using stats & ML models (SARIMAX, Prophet, Linear reg, XGBoost, etc.)
+- 🔭 I’m currently working on **Hierarchical Clustering Analysis** / **PCA+K-Mean** / **NLP** implementations of clusters, for portfolio optimization
 
-- 🌱 I’m currently learning **Plotly & Dash** / **ML applied to Finance** (EDHEC)/**Unsupervised Learning** (Stanford-Andrew Ng)
+- 🌱 I’m currently learning **Python and Machine-Learning for Asset Management with Alternative Data Sets** from EDHEC Business School
 
 - 👯 I’m looking to apply ML and Data Analysis | Viz to help businesses grow and make better use of Data
 
