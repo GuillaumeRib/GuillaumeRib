@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Guillaume</h1>
 
-- 🔭 I’m currently working on **Hierarchical Clustering Analysis** / **PCA+K-Mean** / **NLP** implementations of clusters, for portfolio optimization
+- 🔭 I’m currently working on **PDF Question / Asnwer Application** using parsing tools, vector embeddings and database, and LLMs.
 
 - 🌱 I’m currently learning **Python and Machine-Learning for Asset Management with Alternative Data Sets** from EDHEC Business School
 
